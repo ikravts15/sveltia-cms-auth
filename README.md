@@ -7,7 +7,7 @@ This simple [Cloudflare Workers](https://workers.cloudflare.com/) script allows 
 > **In most cases, you don’t need this authenticator**. Sveltia CMS supports multiple authentication methods for GitHub and GitLab, so you can choose the one that best suits your needs without having to set up this OAuth client.
 <!-- prettier-ignore-end -->
 
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start --> 
 > [!IMPORTANT]
 > Although this authenticator is compatible with Netlify CMS (now Decap CMS), it is designed for use with modern Sveltia CMS instances. Please refer to the [Sveltia CMS documentation](https://sveltiacms.app/en/docs/successor-to-netlify-cms) for more information about the differences between these products and the reasons why Decap CMS should not be used for new projects.
 <!-- prettier-ignore-end -->
